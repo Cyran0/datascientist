@@ -1,3 +1,3 @@
 #Exercices "datascientist"
 
-Contenant ruby.rb & journalist.rb
+Contenant crypto.rb & journalist.rb
